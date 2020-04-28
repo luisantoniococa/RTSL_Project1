@@ -35,4 +35,7 @@ pip install request
 # also we can replace pip install for pip3 depending if there is more versions of Python 
 ```
 
-
+### Background
+The Bareu of Transportations has a very large datasets for aviation comercial and prvate. Based in this information we finded different insights in wich airlines delays are the ones that take longer based in how much delay time from the airline.
+When looking at this dataset we can observe that it does a great job at separating the different reasons for delaying, by separatig them in sections. 
+Some of them include, airport delay, weather delay, traffic control delay and others. 
