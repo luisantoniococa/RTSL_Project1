@@ -1,6 +1,19 @@
 # RTSL_Project1
 
+## Motivation and Process
+
++ Analyzed flight data for 2019 to date to find trends and/or correlations among factors such as carrier delays, days of the week, and cancellations for better and informed decisions to travel to and from Kansas City.
++ Motivation: We were thinking of vacation and how nice it would be as we ruminate over our project. 
++ Process: Started big and pared it down.
+   + It began with pricing, best day of week on flights, hotels, attractions, transportation, etc.
+   + This was too much information to analyze with the time that we had, so we started asking questions based off our data source.
+   + We narrowed down our questions to flight delays in airport. This would be helpful for someone that would like the least amount of time waiting in an airport.
+
+
+
+
 This project takes Data from the Bareu of Transportations, then focus in airlines and how much delay is expected from diferent airlines.
+
 A more detailed explanations can be found in the project report at the following link.
 
 
