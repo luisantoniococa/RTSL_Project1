@@ -1,4 +1,4 @@
-# RTSL_Project1
+# Fligth Delay MCI airport 2019
 
 ## Motivation and Process
 
@@ -8,6 +8,21 @@
    + It began with pricing, best day of week on flights, hotels, attractions, transportation, etc.
    + This was too much information to analyze with the time that we had, so we started asking questions based off our data source.
    + We narrowed down our questions to flight delays in airport. This would be helpful for someone that would like the least amount of time waiting in an airport.
+
+
+## Questions and Summary
+The goal of this project was to be able to answer some of the following questions with data.
+
+### Questions:
+- Do any airline carriers have more delays than others?
+- What is the best day of the week for travel to avoid delays?
+- What are the regions and months with the most weather delays?
+- What are the best airlines regarding cancellations?
+### Summary:
+- There were some obvious issues with delays for a couple of specific airlines. 
+- Overall, the average delay time is within a few minutes for each day of the week, whether due to weather, carrier, security or any other purpose.
+- We can identify trends based in the amount of weather delays by region 
+- Looking at data there is no big variance in the percentage of flights getting cancelled
 
 
 
