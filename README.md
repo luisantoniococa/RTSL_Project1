@@ -1,9 +1,9 @@
-# Fligth Delay MCI airport 2019
+# Flight Delay MCI Airport 2019
 
 ## Motivation and Process
 
 + Analyzed flight data for 2019 to date to find trends and/or correlations among factors such as carrier delays, days of the week, and cancellations for better and informed decisions to travel to and from Kansas City.
-+ Motivation: We were thinking of vacation and how nice it would be as we ruminate over our project. 
++ Motivation: We were thinkin of vacation and how nice it would be as we ruminate over our project. 
 + Process: Started big and pared it down.
    + It began with pricing, best day of week on flights, hotels, attractions, transportation, etc.
    + This was too much information to analyze with the time that we had, so we started asking questions based off our data source.
